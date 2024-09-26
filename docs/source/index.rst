@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Thanh Lộc - CEO thương hiệu cá cược 9Bet
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Đình Bảo <https://9betz.net/ceo-dinh-bao/>`_ sinh năm 1980 tại Hóc Môn, TP. Hồ Chí Minh. Là người lãnh đạo tài ba đứng sau thương hiệu cá cược hàng đầu 9Bet. Dưới sự lãnh đạo của ông, 9Bet không chỉ phát triển mạnh mẽ mà còn thiết lập những chuẩn mực mới về cá cược, mang lại trải nghiệm đẳng cấp và chuyên nghiệp. CEO Đình Bảo đã dẫn dắt các cải tiến đột phá trong việc ứng dụng công nghệ, tối ưu hóa quy trình cá cược trực tuyến, và xây dựng chiến lược marketing thông minh.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 103/5A ấp 4, Xuân Thới Thượng, Hóc Môn, TP. Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0995556220. 
 
-Contents
---------
+Email: contact@9betz.net. 
 
-.. toctree::
+Website: https://9betz.net/ceo-dinh-bao/ 
 
-   usage
-   api
+#ceodinhbao #ceodinhbao_9bet #ceo9bet
